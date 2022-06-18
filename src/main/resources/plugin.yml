@@ -1,0 +1,10 @@
+name: MAdminChat
+version: '${project.version}'
+main: me.marcelooo.madminchat.MAdminChat
+api-version: 1.18
+authors: [ marceloOo ]
+description: Admin chat in-game.
+website: www.github.com/TEmarceloOo
+
+commands:
+  ac:
