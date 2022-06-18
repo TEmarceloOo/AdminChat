@@ -2,7 +2,7 @@
 It's basically just a chat for Admins that have a specified permission.
 
 The command is very simple:
-  /ac <text>
+  /ac [text]
   
 The permission that the admin rank would need is:
     m.adminchat
